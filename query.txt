@@ -1,0 +1,22 @@
+group: UIBK - R, S, T
+description: Tables from and for the lecture [Databases: Foundations, Data Models and System Concepts - University of Innsbruck](http://dbis-informatik.uibk.ac.at/249-0-VO-Datenbanksysteme.html) chapter 3 
+
+T1 = {
+P, Q, R
+
+10, 'a', 5
+15, 'b', 8
+25, 'a', 6
+30, 'c', 9
+20, 'c', 4
+}
+
+T2 = {
+A, B, C
+
+10, 'b', 6
+25, 'c', 3
+10, 'b', 5
+30, 'c', 9
+15, 'a', 4
+}
